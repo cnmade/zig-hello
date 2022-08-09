@@ -1,0 +1,6 @@
+.idea/
+zig-cache/
+*.iml
+main
+main.exe
+
